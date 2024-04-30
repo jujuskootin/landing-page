@@ -177,3 +177,91 @@ button {
 .pic-info {
     width: 100%;
 }
+
+.body-3 {
+    background-color: #e5e7eb;
+    height: 600px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mass {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 720px;
+    flex-shrink: 1;
+
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.credit {
+    font-size: 24px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: flex-end;
+    width: 720px;
+    margin-right: 50px;
+}
+
+.body-4 {
+    background-color: white;
+    display: flex;
+    height: 400px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.alert {
+    display: flex;
+    justify-content: space-around;
+    background-color: #3882f6;
+    padding: 10px;
+    width: 720px;
+    height: 100px;
+    align-items: center;
+
+}
+.sign-up {
+    border-color: white;
+    border-radius: 8px;
+    border-style: solid;
+    padding: 4px;
+    height: 30px;
+    
+}
+
+
+div {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.call {
+    font-size: 18px;
+    color: white;
+}
+
+.call-subtext {
+    font-size: 14px;
+    color: white;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 100%;
+    color: #e5e7eb;
+    font-size: 18px;
+}
